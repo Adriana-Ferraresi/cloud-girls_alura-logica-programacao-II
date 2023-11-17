@@ -1,3 +1,3 @@
-﻿# Cloud-girls-logica-programacao-II
+﻿# Cloud-girls_alura-logica-programacao-II
  
-## Curso Alura - JavaScript e HTML: pratique lógica com desenhos, animações e um jogo-Alura
+## Curso JavaScript e HTML: pratique lógica com desenhos, animações e um jogo
